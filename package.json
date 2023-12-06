@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "jsverify": "^0.8.4"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
